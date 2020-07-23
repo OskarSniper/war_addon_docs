@@ -1,11 +1,11 @@
 module.exports = {
   title: 'Warhammer Online AddOn Docs',
   tagline: 'Developer Documentation',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'http://waraddondocs.waldbauer.me/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'OskarSniper', // Usually your GitHub org/user name.
+  projectName: 'war_addon_docs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'WAR AddOn Docs',

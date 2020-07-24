@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Warhammer Online AddOn Docs',
   tagline: 'Developer Documentation',
-  url: 'http://waraddondocs.waldbauer.me/',
+  url: 'https://waraddondocs.waldbauer.me/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'OskarSniper', // Usually your GitHub org/user name.
@@ -61,7 +61,7 @@ module.exports = {
           homePageId: 'welcome',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          //editUrl: 'https://github.com/facebook/docusaurus/edit/master/website/',
+          editUrl: 'https://github.com/OskarSniper/war_addon_docs/blob/master/',
         },
         blog: {
           showReadingTime: false,
